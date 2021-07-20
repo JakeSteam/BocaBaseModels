@@ -1,0 +1,26 @@
+# Made using Asset Forge (2.2.0)
+
+:materials
+
+[name:_defaultMat;color:RGBA(0.451, 0.232, 0.027, 1.000);scale:(1.5, 1.5);shader:Default;valueA:0.6;valueB:0;]
+[name:custom1;color:RGBA(0.207, 0.207, 0.207, 1.000);scale:(1.5, 1.5);shader:Default;valueA:0.6;valueB:0;]
+[name:foliage;color:RGBA(0.000, 0.655, 0.486, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.35;valueB:0;]
+[name:wood;color:RGBA(0.840, 0.435, 0.305, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.35;valueB:0;]
+
+:models
+
+[name:;collection:Primitives;type:icosphere_half;position:(-0.1000, 0.0000, 0.1000);rotation:(0.0000, 0.0000, 0.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:_defaultMat;]
+[name:;collection:Primitives;type:icosphere_half;position:(-0.0871, 0.3600, -0.1650);rotation:(0.0000, 0.0000, 0.0000);scale:(0.1258, 0.1638, 0.0900);group:;locked:False;hidden:False;materials:custom1;]
+[name:;collection:Primitives;type:icosphere_half;position:(-0.4083, 0.3412, 0.1050);rotation:(0.0000, 0.0000, 45.0000);scale:(0.1258, 0.1638, 0.0900);group:;locked:False;hidden:False;materials:custom1;]
+[name:;collection:Primitives;type:icosphere_half;position:(0.1719, 0.2190, -0.1495);rotation:(349.4547, 10.7286, 314.0070);scale:(0.1258, 0.1638, 0.0900);group:;locked:False;hidden:False;materials:custom1;]
+[name:;collection:Primitives;type:icosphere_half;position:(-0.2971, 0.1900, -0.2450);rotation:(0.0000, 0.0000, 45.0000);scale:(0.1258, 0.1638, 0.0900);group:;locked:False;hidden:False;materials:custom1;]
+[name:;collection:Primitives;type:icosphere_half;position:(0.1129, 0.4100, 0.1350);rotation:(0.0000, 0.0000, 0.0000);scale:(0.1258, 0.1638, 0.0900);group:;locked:False;hidden:False;materials:custom1;]
+[name:;collection:Primitives;type:icosphere_half;position:(-0.0871, 0.1339, 0.5289);rotation:(45.0000, 0.0000, 0.0000);scale:(0.1258, 0.1638, 0.0900);group:;locked:False;hidden:False;materials:custom1;]
+[name:;collection:Primitives;type:icosphere_half;position:(0.0129, 0.2850, 0.4263);rotation:(60.0000, 0.0000, 0.0000);scale:(0.1258, 0.1638, 0.0900);group:;locked:False;hidden:False;materials:custom1;]
+[name:;collection:Primitives;type:icosphere_half;position:(0.2321, 0.0807, 0.3957);rotation:(45.0000, 0.0000, 315.0000);scale:(0.1044, 0.1003, 0.0536);group:;locked:False;hidden:False;materials:custom1;]
+[name:;collection:Foliage;type:leafs_round;position:(0.0000, 0.0000, -0.5000);rotation:(0.0000, 0.0000, 0.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:_defaultMat;]
+[name:;collection:Primitives;type:icosphere_half;position:(-0.1160, 0.3617, 0.2394);rotation:(15.0000, 0.0000, 0.0000);scale:(0.1837, 0.3038, 0.1702);group:;locked:False;hidden:False;materials:custom1;]
+[name:;collection:Primitives;type:icosphere_half;position:(-0.1160, 0.4753, -0.5641);rotation:(0.0000, 270.0000, 345.0000);scale:(0.1837, 0.3038, 0.1702);group:;locked:False;hidden:False;materials:custom1;]
+[name:;collection:Primitives;type:icosphere_half;position:(0.3840, 0.3617, -0.6606);rotation:(15.0000, 0.0000, 0.0000);scale:(0.1837, 0.3038, 0.1702);group:;locked:False;hidden:False;materials:custom1;]
+[name:;collection:Primitives;type:icosphere_half;position:(0.3840, 0.3299, -0.2134);rotation:(15.0000, 0.0000, 0.0000);scale:(0.1837, 0.1410, 0.1052);group:;locked:False;hidden:False;materials:custom1;]
+[name:;collection:Primitives;type:icosphere_half;position:(0.2390, 0.4515, -0.1881);rotation:(15.0000, 0.0000, 0.0000);scale:(0.0937, 0.1610, 0.1096);group:;locked:False;hidden:False;materials:custom1;]

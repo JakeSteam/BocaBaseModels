@@ -1,0 +1,9 @@
+# Made using Asset Forge (2.2.0)
+
+:materials
+
+[name:foliage;color:RGBA(0.262, 0.262, 0.262, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.35;valueB:0;]
+
+:models
+
+[name:;collection:Foliage;type:leafs_round;position:(-1.1000, 0.0000, 0.3000);rotation:(0.0000, 0.0000, 0.0000);scale:(1.0000, 1.3400, 1.0000);group:;locked:False;hidden:False;materials:foliage;]

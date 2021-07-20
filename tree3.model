@@ -1,0 +1,18 @@
+# Made using Asset Forge (2.2.0)
+
+:materials
+
+[name:wood;color:RGBA(0.840, 0.435, 0.305, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.35;valueB:0;]
+[name:foliage;color:RGBA(0.000, 0.655, 0.486, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.35;valueB:0;]
+[name:custom2;color:RGBA(0.073, 0.423, 0.017, 1.000);scale:(1.1, 1.1);texture:Patterns/stripes.png;shader:Default;valueA:0.4;valueB:0;]
+[name:custom3;color:RGBA(0.464, 0.203, 0.007, 1.000);scale:(0.1, 0.1);texture:Patterns/maze.png;shader:Default;valueA:0.4;valueB:0;]
+
+:models
+
+[name:;collection:Foliage;type:trunk_baseDetailed;position:(-0.8000, 0.0000, -1.3000);rotation:(0.0000, 0.0000, 0.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:custom3;]
+[name:;collection:Foliage;type:tree_branchLongBend;position:(-0.9565, 0.1704, -0.3954);rotation:(300.0000, 285.0000, 75.0000);scale:(1.0906, 0.7316, 1.0891);group:;locked:False;hidden:False;materials:custom3;]
+[name:;collection:Foliage;type:tree_branchLong;position:(-0.5850, 0.0800, -2.4550);rotation:(90.0000, 60.0000, 0.0000);scale:(1.0000, 1.5400, 1.0000);group:;locked:False;hidden:False;materials:custom3;]
+[name:;collection:Foliage;type:tree_branchLongBend;position:(0.2809, 0.1591, -0.7338);rotation:(306.5803, 309.8030, 54.1361);scale:(1.4718, 2.4780, 2.4780);group:;locked:False;hidden:False;materials:custom3;]
+[name:;collection:Foliage;type:tree_branchLongSplit;position:(0.4400, 0.3054, 0.3989);rotation:(285.0000, 0.0000, 60.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:custom3;]
+[name:;collection:Foliage;type:plant_large;position:(-1.0000, 0.0000, -2.1000);rotation:(0.0000, 0.0000, 0.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:custom2;]
+[name:;collection:Foliage;type:plant_large;position:(1.3500, 0.0000, -0.7065);rotation:(0.0000, 75.0000, 0.0000);scale:(1.2700, 1.5200, 1.3100);group:;locked:False;hidden:False;materials:custom2;]

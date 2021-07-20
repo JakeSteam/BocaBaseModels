@@ -1,1 +1,0 @@
-bocabase-models

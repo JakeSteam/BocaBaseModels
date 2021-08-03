@@ -1,0 +1,20 @@
+# Made using Asset Forge (2.2.0)
+
+:materials
+
+[name:Front;color:RGBA(0.186, 0.394, 0.800, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+[name:Fins;color:RGBA(0.578, 0.545, 0.306, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+[name:Body;color:RGBA(0.059, 0.091, 0.640, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+[name:Beige;color:RGBA(0.639, 0.483, 0.270, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+[name:Brown;color:RGBA(0.032, 0.011, 0.007, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+[name:White;color:RGBA(0.640, 0.640, 0.640, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+[name:Black;color:RGBA(0.030, 0.030, 0.030, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+[name:Material.003;color:RGBA(0.549, 0.285, 0.297, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+[name:Material;color:RGBA(0.162, 0.070, 0.039, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+[name:Grey;color:RGBA(0.162, 0.162, 0.162, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+[name:Material.006;color:RGBA(0.016, 0.016, 0.016, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+[name:Pink;color:RGBA(0.640, 0.141, 0.173, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+
+:models
+
+[name:;collection:Custom - Animals - Quaternius;type:Cow;position:(0.0000, 0.0000, 2.0000);rotation:(0.0000, 0.0000, 0.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:White+Black+Pink;]

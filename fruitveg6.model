@@ -1,0 +1,16 @@
+# Made using Asset Forge (2.2.0)
+
+:materials
+
+[name:green;color:RGBA(0.341, 0.737, 0.592, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+[name:red;color:RGBA(0.910, 0.333, 0.325, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+[name:brown;color:RGBA(0.827, 0.565, 0.404, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+[name:brownLight;color:RGBA(0.976, 0.773, 0.549, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+[name:brownDark;color:RGBA(0.639, 0.388, 0.278, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+[name:_defaultMat;color:RGBA(1.000, 1.000, 1.000, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+[name:purpleLight;color:RGBA(0.910, 0.604, 0.816, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+[name:brownDarkest;color:RGBA(0.259, 0.161, 0.137, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+
+:models
+
+[name:;collection:Custom - Food - Kenney;type:avocadoHalf;position:(0.1502, 0.0000, 0.1734);rotation:(0.0000, 0.0000, 0.0000);scale:(3.0000, 3.0000, 3.0000);group:;locked:False;hidden:False;materials:green+brownDarkest+brownDark;]

@@ -1,0 +1,23 @@
+# Made using Asset Forge (2.2.0)
+
+:materials
+
+[name:pavement;color:RGBA(0.400, 0.400, 0.400, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+[name:light;color:RGBA(0.000, 0.184, 0.920, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+[name:_defaultMat;color:RGBA(1.000, 1.000, 1.000, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+[name:asphalt;color:RGBA(0.023, 0.023, 0.023, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+[name:asphaltEdge;color:RGBA(0.110, 0.110, 0.110, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+[name:line;color:RGBA(1.000, 1.000, 1.000, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+
+:models
+
+[name:;collection:Custom - Roads - Kenney;type:road_straight;position:(0.0000, 0.0000, 0.0000);rotation:(0.0000, 0.0000, 0.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:pavement+asphalt+asphaltEdge+line;]
+[name:;collection:Custom - Roads - Kenney;type:road_bend;position:(-1.0000, 0.0000, 0.0000);rotation:(0.0000, 0.0000, 0.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:pavement+asphalt+asphaltEdge+line;]
+[name:;collection:Custom - Roads - Kenney;type:road_straight;position:(-1.0000, 0.0000, 1.0000);rotation:(0.0000, 90.0000, 0.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:pavement+asphalt+asphaltEdge+line;]
+[name:;collection:Custom - Roads - Kenney;type:road_bend;position:(1.0000, 0.0000, 0.0000);rotation:(0.0000, 270.0000, 0.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:pavement+asphalt+asphaltEdge+line;]
+[name:;collection:Custom - Roads - Kenney;type:road_crossing;position:(1.0000, 0.0000, 1.0000);rotation:(0.0000, 270.0000, 0.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:line+pavement+asphalt+asphaltEdge;]
+[name:;collection:Custom - Roads - Kenney;type:road_bend;position:(-1.0000, 0.0000, 2.0000);rotation:(0.0000, 90.0000, 0.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:pavement+asphalt+asphaltEdge+line;]
+[name:;collection:Custom - Roads - Kenney;type:road_bridge;position:(1.0000, 0.0000, 2.0000);rotation:(0.0000, 270.0000, 0.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:line+asphalt+pavement+asphaltEdge;]
+[name:;collection:Custom - Roads - Kenney;type:road_slantHigh;position:(0.0000, 0.0000, 2.0000);rotation:(0.0000, 180.0000, 0.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:pavement+asphalt+asphaltEdge+line;]
+[name:;collection:Custom - Roads - Kenney;type:road_straight;position:(1.0000, 0.0000, 3.0000);rotation:(0.0000, 270.0000, 0.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:pavement+asphalt+asphaltEdge+line;]
+[name:;collection:Custom - Roads - Kenney;type:road_slantHigh;position:(2.0000, 0.0000, 2.0000);rotation:(0.0000, 0.0000, 0.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:pavement+asphalt+asphaltEdge+line;]

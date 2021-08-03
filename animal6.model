@@ -1,0 +1,14 @@
+# Made using Asset Forge (2.2.0)
+
+:materials
+
+[name:Body;color:RGBA(0.640, 0.109, 0.015, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+[name:Stripes;color:RGBA(0.640, 0.606, 0.512, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+[name:Outline;color:RGBA(0.405, 0.368, 0.368, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+[name:Bottom;color:RGBA(0.548, 0.640, 0.582, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+[name:Top;color:RGBA(0.106, 0.110, 0.161, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+[name:Fins;color:RGBA(0.640, 0.525, 0.321, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+
+:models
+
+[name:;collection:Custom - Animals - Quaternius;type:Shark;position:(0.0000, 0.0000, -2.0000);rotation:(0.0000, 0.0000, 0.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:Top+Bottom;]

@@ -1,0 +1,18 @@
+# Made using Asset Forge (2.2.0)
+
+:materials
+
+[name:TransparentPurpleGem;color:RGBA(0.489, 0.201, 0.888, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+
+:models
+
+[name:;collection:Custom - Gems - Rkuhlf;type:Amethyst;position:(-0.0952, 0.4013, -0.2155);rotation:(5.8336, 291.1281, 262.6756);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:TransparentPurpleGem;]
+[name:;collection:Custom - Gems - Rkuhlf;type:Amethyst;position:(0.5645, 0.1000, 0.3500);rotation:(0.0000, 315.0000, 90.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:TransparentPurpleGem;]
+[name:;collection:Custom - Gems - Rkuhlf;type:Amethyst;position:(0.4325, 0.4293, -0.3318);rotation:(0.0000, 330.0000, 45.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:TransparentPurpleGem;]
+[name:;collection:Custom - Gems - Rkuhlf;type:Amethyst;position:(-0.0328, 0.2102, 0.4388);rotation:(347.0475, 29.1325, 277.6307);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:TransparentPurpleGem;]
+[name:;collection:Custom - Gems - Rkuhlf;type:Amethyst;position:(1.4723, 0.3409, 0.4388);rotation:(5.3771, 328.7634, 84.5057);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:TransparentPurpleGem;]
+[name:;collection:Custom - Gems - Rkuhlf;type:Amethyst;position:(0.9662, 0.2497, -0.3318);rotation:(7.4355, 29.1474, 211.9357);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:TransparentPurpleGem;]
+[name:;collection:Custom - Gems - Rkuhlf;type:Amethyst;position:(0.7945, 0.1190, 1.3500);rotation:(352.5645, 330.8526, 256.9357);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:TransparentPurpleGem;]
+[name:;collection:Custom - Gems - Rkuhlf;type:Amethyst;position:(0.9405, 0.3905, 0.8450);rotation:(10.5453, 44.0070, 259.2714);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:TransparentPurpleGem;]
+[name:;collection:Custom - Gems - Rkuhlf;type:Amethyst;position:(1.4832, 0.1402, -0.2155);rotation:(8.1633, 68.7611, 77.2676);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:TransparentPurpleGem;]
+[name:;collection:Custom - Gems - Rkuhlf;type:Amethyst;position:(0.0318, 0.1087, 0.9812);rotation:(8.1633, 68.7611, 77.2676);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:TransparentPurpleGem;]

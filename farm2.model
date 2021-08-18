@@ -1,0 +1,13 @@
+# Made using Asset Forge (2.2.0)
+
+:materials
+
+[name:Brown;color:RGBA(0.262, 0.119, 0.000, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0;valueB:0.5;]
+[name:Light_Green;color:RGBA(0.058, 0.640, 0.132, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+
+:models
+
+[name:;collection:Custom - Farming - Mcrafterzz;type:farmland;position:(0.0000, 0.0000, 0.0000);rotation:(0.0000, 0.0000, 0.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:Brown;]
+[name:;collection:Custom - Farming - Mcrafterzz;type:farmland_end_inverted;position:(0.0000, 0.0000, 0.0000);rotation:(0.0000, 0.0000, 0.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:Brown;]
+[name:;collection:Custom - Farming - Mcrafterzz;type:farmland_end;position:(-0.2500, 0.0000, 0.0000);rotation:(0.0000, 0.0000, 0.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:Brown;]
+[name:;collection:Custom - Farming - Mcrafterzz;type:cabbage;position:(0.0200, 0.0500, 0.0200);rotation:(0.0000, 0.0000, 0.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:Light_Green;]

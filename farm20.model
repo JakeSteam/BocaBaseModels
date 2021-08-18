@@ -1,0 +1,19 @@
+# Made using Asset Forge (2.2.0)
+
+:materials
+
+[name:Brown;color:RGBA(0.262, 0.119, 0.000, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0;valueB:0.5;]
+[name:Light_Green;color:RGBA(0.009, 0.336, 0.051, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+[name:Orange;color:RGBA(0.640, 0.138, 0.038, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+[name:Green;color:RGBA(0.054, 0.391, 0.012, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+[name:White;color:RGBA(0.588, 0.784, 0.525, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+[name:Red;color:RGBA(0.640, 0.015, 0.011, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+[name:Purple;color:RGBA(0.451, 0.212, 0.800, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+[name:Wheat;color:RGBA(0.640, 0.619, 0.069, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+
+:models
+
+[name:;collection:Custom - Farming - Mcrafterzz;type:farmland_large;position:(0.0000, 0.0000, 0.0000);rotation:(0.0000, 0.0000, 0.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:Brown;]
+[name:;collection:Custom - Farming - Mcrafterzz;type:farmland_end_large_inverted;position:(0.0000, 0.0000, 0.0000);rotation:(0.0000, 0.0000, 0.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:Brown;]
+[name:;collection:Custom - Farming - Mcrafterzz;type:farmland_end_large;position:(0.0000, 0.0000, 0.0000);rotation:(0.0000, 0.0000, 0.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:Brown;]
+[name:;collection:Custom - Farming - Mcrafterzz;type:planted_strawberries_large;position:(0.0000, 0.0000, 0.0100);rotation:(0.0000, 0.0000, 0.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:Red+Green;]

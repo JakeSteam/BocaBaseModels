@@ -1,0 +1,26 @@
+# Made using Asset Forge (2.2.0)
+
+:materials
+
+[name:TransparentPurpleGem;color:RGBA(0.489, 0.201, 0.888, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+
+:models
+
+[name:;collection:Custom - Gems - Rkuhlf;type:Amethyst;position:(1.6560, 0.1190, -0.4877);rotation:(352.5645, 45.8526, 256.9357);scale:(1.0000, 1.0001, 1.0000);group:;locked:False;hidden:False;materials:TransparentPurpleGem;]
+[name:;collection:Custom - Gems - Rkuhlf;type:Amethyst;position:(1.2059, 0.3905, -0.7594);rotation:(10.5453, 119.0070, 259.2714);scale:(1.0001, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:TransparentPurpleGem;]
+[name:;collection:Custom - Gems - Rkuhlf;type:Amethyst;position:(0.6305, 0.1000, -0.5243);rotation:(0.0000, 30.0000, 90.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:TransparentPurpleGem;]
+[name:;collection:Custom - Gems - Rkuhlf;type:Amethyst;position:(1.1023, 0.1087, 0.1536);rotation:(8.1633, 143.7611, 77.2676);scale:(1.0000, 1.0001, 1.0000);group:;locked:False;hidden:False;materials:TransparentPurpleGem;]
+[name:;collection:Custom - Gems - Rkuhlf;type:Amethyst;position:(0.5617, 0.2102, 0.0756);rotation:(347.0475, 104.1325, 277.6307);scale:(1.0001, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:TransparentPurpleGem;]
+[name:;collection:Custom - Gems - Rkuhlf;type:Amethyst;position:(0.1129, 0.1000, 1.4076);rotation:(0.0000, 30.0000, 90.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:TransparentPurpleGem;]
+[name:;collection:Custom - Gems - Rkuhlf;type:Amethyst;position:(-0.8174, 0.3791, 0.5728);rotation:(357.9542, 344.1541, 82.5939);scale:(1.0001, 1.0001, 1.0000);group:;locked:False;hidden:False;materials:TransparentPurpleGem;]
+[name:;collection:Custom - Gems - Rkuhlf;type:Amethyst;position:(-0.0622, 0.4293, -0.5733);rotation:(0.0000, 45.0000, 45.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:TransparentPurpleGem;]
+[name:;collection:Custom - Gems - Rkuhlf;type:Amethyst;position:(-0.0865, 0.4013, -0.0335);rotation:(5.8335, 6.1281, 262.6756);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:TransparentPurpleGem;]
+[name:;collection:Custom - Gems - Rkuhlf;type:Amethyst;position:(0.4336, 0.3409, 0.5537);rotation:(5.3771, 43.7634, 84.5057);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:TransparentPurpleGem;]
+[name:;collection:Custom - Gems - Rkuhlf;type:Amethyst;position:(-0.4418, 0.2497, 0.8431);rotation:(7.4355, 104.1474, 211.9357);scale:(1.0002, 1.0002, 1.0000);group:;locked:False;hidden:False;materials:TransparentPurpleGem;]
+[name:;collection:Custom - Gems - Rkuhlf;type:Amethyst;position:(-0.1957, 0.1402, 0.3738);rotation:(8.1633, 143.7611, 77.2676);scale:(1.0000, 1.0001, 1.0000);group:;locked:False;hidden:False;materials:TransparentPurpleGem;]
+[name:;collection:Custom - Gems - Rkuhlf;type:Amethyst;position:(-1.6064, 0.2361, 0.4052);rotation:(0.0000, 45.0000, 75.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:TransparentPurpleGem;]
+[name:;collection:Custom - Gems - Rkuhlf;type:Amethyst;position:(-1.5006, 0.1190, -0.2982);rotation:(15.0000, 165.0000, 270.0000);scale:(1.0001, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:TransparentPurpleGem;]
+[name:;collection:Custom - Gems - Rkuhlf;type:Amethyst;position:(-0.9490, 0.1722, -0.7167);rotation:(5.8335, 6.1281, 262.6756);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:TransparentPurpleGem;]
+[name:;collection:Custom - Gems - Rkuhlf;type:Amethyst;position:(0.0759, 0.2497, -1.0887);rotation:(7.4355, 104.1474, 211.9357);scale:(1.0001, 1.0001, 1.0000);group:;locked:False;hidden:False;materials:TransparentPurpleGem;]
+[name:;collection:Custom - Gems - Rkuhlf;type:Amethyst;position:(0.9512, 0.3409, -1.3782);rotation:(5.3771, 43.7634, 84.5057);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:TransparentPurpleGem;]
+[name:;collection:Custom - Gems - Rkuhlf;type:Amethyst;position:(0.3220, 0.1402, -1.5580);rotation:(8.1633, 143.7611, 77.2676);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:TransparentPurpleGem;]

@@ -1,0 +1,27 @@
+# Made using Asset Forge (2.2.0)
+
+:materials
+
+[name:Material.003;color:RGBA(0.800, 0.800, 0.800, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+[name:TransparentBlueGem;color:RGBA(0.869, 0.741, 0.182, 1.000);scale:(1.0, 1.0);shader:Default;valueA:0.5;valueB:0;]
+
+:models
+
+[name:;collection:Custom - Gems - Rkuhlf;type:Sapphire;position:(-0.2808, 0.2000, -0.5851);rotation:(15.0000, 345.0000, 270.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:TransparentBlueGem;]
+[name:;collection:Custom - Gems - Rkuhlf;type:Sapphire;position:(0.3764, 0.2000, -0.7196);rotation:(0.0000, 345.0000, 270.0000);scale:(1.0002, 1.0002, 1.0001);group:;locked:False;hidden:False;materials:TransparentBlueGem;]
+[name:;collection:Custom - Gems - Rkuhlf;type:Sapphire;position:(1.2424, 0.2000, -0.2196);rotation:(0.0000, 345.0000, 270.0000);scale:(1.0002, 1.0002, 1.0001);group:;locked:False;hidden:False;materials:TransparentBlueGem;]
+[name:;collection:Custom - Gems - Rkuhlf;type:Sapphire;position:(0.5852, 0.2000, -0.0851);rotation:(15.0000, 345.0000, 270.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:TransparentBlueGem;]
+[name:;collection:Custom - Gems - Rkuhlf;type:Sapphire;position:(0.0468, 0.2000, 0.1239);rotation:(0.0000, 345.0000, 270.0000);scale:(1.0002, 1.0002, 1.0001);group:;locked:False;hidden:False;materials:TransparentBlueGem;]
+[name:;collection:Custom - Gems - Rkuhlf;type:Sapphire;position:(-0.6552, 0.2000, 0.0393);rotation:(0.0000, 345.0000, 255.0000);scale:(1.0000, 1.0001, 1.0000);group:;locked:False;hidden:False;materials:TransparentBlueGem;]
+[name:;collection:Custom - Gems - Rkuhlf;type:Sapphire;position:(-0.7236, 0.4052, 0.0827);rotation:(14.4775, 344.4959, 266.0329);scale:(1.0002, 1.0002, 1.0001);group:;locked:False;hidden:False;materials:TransparentBlueGem;]
+[name:;collection:Custom - Gems - Rkuhlf;type:Sapphire;position:(0.1424, 0.2758, 0.5657);rotation:(14.4775, 344.4959, 266.0329);scale:(1.0002, 1.0002, 1.0001);group:;locked:False;hidden:False;materials:TransparentBlueGem;]
+[name:;collection:Custom - Gems - Rkuhlf;type:Sapphire;position:(-0.5148, 0.2410, 0.6956);rotation:(29.4380, 343.3178, 265.5885);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:TransparentBlueGem;]
+[name:;collection:Custom - Gems - Rkuhlf;type:Sapphire;position:(-1.0532, 0.1869, 0.8974);rotation:(14.4775, 344.4959, 266.0329);scale:(1.0002, 1.0002, 1.0001);group:;locked:False;hidden:False;materials:TransparentBlueGem;]
+[name:;collection:Custom - Gems - Rkuhlf;type:Sapphire;position:(-0.9668, 0.0044, 1.5786);rotation:(18.3430, 79.4068, 285.2708);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:TransparentBlueGem;]
+[name:;collection:Custom - Gems - Rkuhlf;type:Sapphire;position:(-1.7552, 0.2088, 0.8157);rotation:(14.4775, 344.4959, 251.0329);scale:(1.0000, 1.0001, 1.0000);group:;locked:False;hidden:False;materials:TransparentBlueGem;]
+[name:;collection:Custom - Gems - Rkuhlf;type:Sapphire;position:(1.1800, -0.0329, 0.2813);rotation:(15.0000, 75.0000, 270.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:TransparentBlueGem;]
+[name:;collection:Custom - Gems - Rkuhlf;type:Sapphire;position:(0.0276, 0.4000, -0.3137);rotation:(0.0000, 345.0000, 270.0000);scale:(1.0002, 1.0002, 1.0001);group:;locked:False;hidden:False;materials:TransparentBlueGem;]
+[name:;collection:Custom - Gems - Rkuhlf;type:Sapphire;position:(-0.1871, -0.0391, 1.3545);rotation:(359.5119, 345.5219, 266.1589);scale:(1.0002, 1.0002, 1.0001);group:;locked:False;hidden:False;materials:TransparentBlueGem;]
+[name:;collection:Custom - Gems - Rkuhlf;type:Sapphire;position:(0.9129, 0.2000, 0.6239);rotation:(30.0000, 345.0000, 270.0000);scale:(1.0002, 1.0002, 1.0001);group:;locked:False;hidden:False;materials:TransparentBlueGem;]
+[name:;collection:Custom - Gems - Rkuhlf;type:Sapphire;position:(-1.0724, 0.4933, 0.5266);rotation:(14.4775, 344.4959, 266.0329);scale:(1.0002, 1.0002, 1.0001);group:;locked:False;hidden:False;materials:TransparentBlueGem;]
+[name:;collection:Custom - Gems - Rkuhlf;type:Sapphire;position:(0.5930, 0.1837, 1.1364);rotation:(3.8410, 75.4892, 284.5108);scale:(1.0002, 1.0002, 1.0001);group:;locked:False;hidden:False;materials:TransparentBlueGem;]
